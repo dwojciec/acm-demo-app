@@ -9,5 +9,5 @@ metadata:
 spec:
   clusterSelector:
     matchLabels:
-      name: ocpk1
+      name: csl-dev
 
